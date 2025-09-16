@@ -1,15 +1,24 @@
-Hi 👋 My name is Levi
+Olá! Eu sou o Levi! 🙆🏻‍♂️
 =====================
 
-programming student
+Programador Back-End
 -------------------
 
-I am a programming student studying Systems Analysis and Development at Fatec Ferraz de Vasconcelos. I am a lover of music, fantasy books, and games. I intend to grow as a professional and specialize in full-stack development
+Sou um ávido estudante de programação com foco em Back-End, atualmente estou cursando Análise e Desenvolvimento de Sistemas
 
-* 🌍  I'm based in São Paulo - Brasil
-* ✉️  You can contact me at [levinicolas2000@gmail.com](mailto:levinicolas2000@gmail.com)
-* 🧠  I'm learning Git, PHP and Python
-* ⚡  My favorite hobby is marine aquascaping, and I occasionally visit libraries in search of new fantasy books.
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200em align="center" src="https://github-readme-stats.vercel.app/api?username=1red-Fox1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1red-Fox1&layout=compact&theme=tokyonight&card_width=320" />
+  </a>
+</div>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" align="center" height=45/>
+          
+// pega os icones desse site: https://devicon.dev
 
 ### Skills
 

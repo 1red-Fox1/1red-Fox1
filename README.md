@@ -9,7 +9,7 @@ Sou um ávido estudante de programação com foco em Back-End, atualmente estou 
 <a href="https://github.com/anuraghazra/github-readme-stats" ><img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=1red-Fox1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /></a><a href="https://github.com/anuraghazra/convoychat" ><img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1red-Fox1&layout=compact&theme=tokyonight&card_width=320" /></a>
 
 <div>
-
+          
   ### Principais linguagens e tecnologias
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" align="center" height=45/>
@@ -17,6 +17,7 @@ Sou um ávido estudante de programação com foco em Back-End, atualmente estou 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" align="center" height=45/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" align="center" height=50/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" align="center" height=45/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" align="center" height=45/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" align="center" height=45/>     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" align="center" height=45/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" align="center" height=45/>       

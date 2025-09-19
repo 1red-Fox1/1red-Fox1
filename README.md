@@ -6,7 +6,7 @@ Programador Back-End
 
 Sou um ávido estudante de programação com foco em Back-End, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec Ferraz de Vasconcelos
 
-<a href="https://github.com/anuraghazra/github-readme-stats" ><img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=1red-Fox1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /></a><a href="https://github.com/anuraghazra/convoychat" ><img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1red-Fox1&layout=compact&theme=tokyonight&card_width=320" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" ><img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=LeviNicolaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /></a><a href="https://github.com/anuraghazra/convoychat" ><img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeviNicolaDev&layout=compact&theme=tokyonight&card_width=320" /></a>
 
 <div>
           
